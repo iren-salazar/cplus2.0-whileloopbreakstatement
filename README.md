@@ -29,8 +29,8 @@ int main() {
 
 /*output: 
 
-a + b = 9
-a - b = 5
-a * b = 14
-a / b = 3
+a + b = 9,
+a - b = 5,
+a * b = 14,
+a / b = 3.
 a % b = 1*/
